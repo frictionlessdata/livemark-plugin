@@ -1,0 +1,18 @@
+custom: true
+brand:
+  text: Livemark Plugin
+about:
+  text: A Livemark plugin template
+github:
+  user: frictionlessdata
+  repo: livemark-plugin
+pages:
+  items:
+    - path: index
+      name: Documentation
+links:
+  items:
+    - name: Frictionless
+      path: https://frictionlessdata.io
+    - name: Livemark
+      path: https://livemark.frictionlessdata.io
